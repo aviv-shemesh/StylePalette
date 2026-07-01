@@ -313,7 +313,7 @@ Additional engineering gaps identified while reviewing the current codebase (not
 
 | | |
 |---|---|
-| **Students** | Aviv Shemesh ([@aviv-shemesh](https://github.com/aviv-shemesh)), Dafna Simhon |
+| **Students** | Aviv Shemesh , Dafna Simhon |
 | **Program** | B.Sc. in Computer Science |
 | **Institution** | Afeka Academic College of Engineering |
 | **Project Supervisor** | Victor Taubkin |
