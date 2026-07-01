@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_pink</item>
+        <item name="colorPrimaryContainer">@color/lavender_light</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="textInputStyle">@style/Widget.StylePalette.TextInputLayout.OutlinedBox</item>
+        <item name="toolbarStyle">@style/Widget.StylePalette.Toolbar</item>
+    </style>
+</resources>
