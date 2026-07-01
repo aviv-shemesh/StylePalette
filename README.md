@@ -263,6 +263,4 @@ These are potential directions for the project, based on gaps observed in the cu
 - Add a `LICENSE` file (the repository does not currently declare a license).
 - Wire up `FeedFilters.selectedVibe` end-to-end, or remove it if superseded by the free-text vibe search.
 
-## Authors
 
-- **Aviv Shemesh** — [@aviv-shemesh](https://github.com/aviv-shemesh)
